@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Hackthon",
+			"path": "."
+		},
+		{
+			"name": "cmu_graphics",
+			"path": "../112 Term Project/cmu_graphics"
+		}
+	],
+	"settings": {}
+}
